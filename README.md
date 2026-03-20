@@ -74,6 +74,8 @@ SELECT *, (rolling_people_vaccinated / population) * 100 AS pct_vaccinated
 FROM PopvsVac;
 ```
 
+![Uploading image.png…]()
+
 ---
 
 ## How to Run
